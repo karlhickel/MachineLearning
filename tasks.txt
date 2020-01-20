@@ -1,0 +1,11 @@
+tasks:
+grab id and date from flickr images
+sort images by date
+allow user to click on face
+bio and image screen
+
+for each photo in iss album:
+	grab the id
+	in the app, we'll display image associated with that id
+	for the current photo, do face recognition
+	

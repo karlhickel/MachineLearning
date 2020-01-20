@@ -85,4 +85,4 @@ def classify_face(im):
         if cv2.waitKey(1) & 0xFF == ord('q'):
             return face_names
 
-print(classify_face("issPictures/4.jpg"))
+print(classify_face("issPictures/1.jpg"))
